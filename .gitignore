@@ -1,9 +1,9 @@
-.ini
+*.ini
 .DS_Store
 *
 !*.*
 !*/
-
+*.desktop.ini
 ### C ###
 # Prerequisites
 *.d
@@ -98,3 +98,15 @@ Temporary Items
 !.vscode/launch.json
 !.vscode/extensions.json
 !.vscode/*.code-snippets
+C/desktop.ini
+C++/desktop.ini
+Figma/desktop.ini
+Crystal/desktop.ini
+Java/desktop.ini
+Go/desktop.ini
+Julia/desktop.ini
+Jupyter notebook/desktop.ini
+Lua/desktop.ini
+Python/desktop.ini
+Ruby/desktop.ini
+Swift/desktop.ini
